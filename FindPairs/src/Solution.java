@@ -26,6 +26,18 @@ public class Solution {
 //        System.out.println("TEST");
         int arr[] = {14, 13, 6 ,7 ,8 , 10, 1, 2};
         int arr2[] = {14, 13, 6 ,7 ,8 , 10, 1};
+        int arr3[] = {2,2};
+        int arr4[] = {2};
+        int arr5[] = {14, 13, 6, 7, 8, 10, 1};
+        int arr6[] = {14, 13, 6, 7, 8, 10, 1};
+        int arr7[] = {};
+
         findPairs(arr,3);
+        findPairs(arr2,3);
+        findPairs(arr3,4);
+        findPairs(arr4,4);
+        findPairs(arr5,-1);
+        findPairs(arr6,0);
+        findPairs(arr6,1);
     }
 }
