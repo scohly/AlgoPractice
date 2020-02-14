@@ -1,0 +1,3 @@
+/Users/soamicohly/Desktop/PracticeAlgos/AmicablePairs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/soamicohly/Desktop/PracticeAlgos/AmicablePairs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/soamicohly/Desktop/PracticeAlgos/AmicablePairs/cmake-build-debug/CMakeFiles/AmicablePairs.dir
